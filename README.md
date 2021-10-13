@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amadoubs
+- 👋 Hi, I’m Amdouh ..> @amadoubs
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning Java Html & CSS soon Php
 - 💞️ I’m looking to collaborate on projects web || applications
